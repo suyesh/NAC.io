@@ -13,6 +13,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'simple_form'
 gem 'rails_12factor', group: :production
 gem 'GuideboxWrapper'
+gem "koala", "~> 2.2"
 
 group :development, :test do
     gem 'factory_girl_rails'
