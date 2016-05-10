@@ -16,6 +16,8 @@ gem 'simple_form'
 gem 'rails_12factor', group: :production
 gem 'GuideboxWrapper'
 gem "koala", "~> 2.2"
+gem 'rest-client'
+gem "font-awesome-rails"
 
 group :development, :test do
     gem 'factory_girl_rails'
